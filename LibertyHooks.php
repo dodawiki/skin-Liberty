@@ -86,7 +86,7 @@ class LibertyHooks extends Hooks {
 				wfMessage( 'liberty-dark-light' )->text() => 'light'
 			],
 			'help-message' => 'liberty-pref-dark-help',
-			'default' => null
+			'default' => 'light'
 		];
 	}
 }
